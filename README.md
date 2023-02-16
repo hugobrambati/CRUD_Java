@@ -15,4 +15,4 @@ Criei um projeto em java com **CRUD** básico
 
 4.**Pagina para cadastro de cliente onde será guardado os dados do cliente para pesquisa.** 
 
-![Cadastr_Usuario](https://user-images.githubusercontent.com/104919196/218789345-ed5e9361-4f55-4dd6-97cb-e4ccdbba1d58.png)
+![Cadastro_Cliente](https://user-images.githubusercontent.com/104919196/219434030-ae0d02cb-6fae-4777-bf19-da3cc9799755.png)
